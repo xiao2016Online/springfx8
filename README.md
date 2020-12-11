@@ -33,4 +33,5 @@ SpringBoot2.X
 ```
 --module-path D:\coder\openjdk\javafx-sdk-11.0.2\lib --add-modules javafx.controls,javafx.fxml
 ```
+PS 在Java11 模式下可以编译运行，但是打包成jar存在问题，未解决→_→！！！，先放弃了
 
